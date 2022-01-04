@@ -9,4 +9,4 @@
 
 - [*Doomspire Brickbattle*](https://web.roblox.com/games/1215581239/Doomspire-Brickbattle)
 - [*Blade Quest*](https://web.roblox.com/games/6494523288/SPACE-Blade-Quest)
-- (**Delayed Due To Internet Issues!**) [*Legends Of Speed*](https://web.roblox.com/games/3101667897/Legends-Of-Speed)
+- (**Working On It Again!**) [*Legends Of Speed*](https://web.roblox.com/games/3101667897/Legends-Of-Speed)

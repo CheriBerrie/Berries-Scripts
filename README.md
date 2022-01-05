@@ -9,4 +9,4 @@
 
 - [*Doomspire Brickbattle*](https://web.roblox.com/games/1215581239/Doomspire-Brickbattle)  >  Last Update (Jan 3, 2022)
 - [*Blade Quest*](https://web.roblox.com/games/6494523288/SPACE-Blade-Quest)  >  Last Update (Jan 5, 2022)
-- (**Working On It Again!**) [*Legends Of Speed*](https://web.roblox.com/games/3101667897/Legends-Of-Speed)
+- [*Legends Of Speed*](https://web.roblox.com/games/3101667897/Legends-Of-Speed) > Last Update (Jan 5, 2022)

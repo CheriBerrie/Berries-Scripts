@@ -1,7 +1,5 @@
 local winpart = game:GetService("Workspace").Ganha
-local lpname = game:GetService("Players").LocalPlayer.Name
 local lp = game:GetService("Players").LocalPlayer
-local lpsec = game:GetService("Players").LocalPlayer
 getgenv().PriorityCheck = {
         AutoWin = true
 }
